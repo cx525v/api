@@ -1,1 +1,2 @@
-https://www.youtube.com/watch?v=8V8-3ewm78k
+api key: https://www.youtube.com/watch?v=8V8-3ewm78k
+basic authentication: https://www.youtube.com/watch?v=BZnmhyZzKgs
